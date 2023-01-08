@@ -1,0 +1,29 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\AppSKTM\bin\Debug\AppSKTM.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\AppSKTM\bin\Debug\AppSKTM.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\AppSKTM\bin\Debug\AppSKTM.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\AppSKTM\obj\x86\Debug\AppSKTM.frmmenuutama.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\AppSKTM\obj\x86\Debug\AppSKTM.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\AppSKTM\obj\x86\Debug\AppSKTM.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\AppSKTM\obj\x86\Debug\AppSKTM.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\AppSKTM\obj\x86\Debug\AppSKTM.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\AppSKTM\obj\x86\Debug\AppSKTM.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\AppSKTM\obj\x86\Debug\AppSKTM.frmlogin.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\AppSKTM\obj\x86\Debug\AppSKTM.frmmasterpegawai.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\AppSKTM\AppSKTM\obj\x86\Debug\AppSKTM.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\AppSKTM\AppSKTM\obj\x86\Debug\AppSKTM.xml
+C:\Users\Lenovo\documents\visual studio 2010\Projects\AppSKTM\AppSKTM\obj\x86\Debug\AppSKTM.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\AppSKTM\AppSKTM\bin\Debug\AppSKTM.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\AppSKTM\AppSKTM\bin\Debug\AppSKTM.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\AppSKTM\AppSKTM\bin\Debug\AppSKTM.xml
+C:\Users\Lenovo\documents\visual studio 2010\Projects\AppSKTM\AppSKTM\obj\x86\Debug\AppSKTM.frmlogin.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\AppSKTM\AppSKTM\obj\x86\Debug\AppSKTM.frmmenuutama.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\AppSKTM\AppSKTM\obj\x86\Debug\AppSKTM.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\AppSKTM\AppSKTM\obj\x86\Debug\AppSKTM.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AppSKTM\AppSKTM\obj\x86\Debug\AppSKTM.frmregistrasiuser.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AppSKTM\AppSKTM\obj\x86\Debug\AppSKTM.frmsktm.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AppSKTM\AppSKTM\obj\x86\Debug\AppSKTM.frmskck.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AppSKTM\AppSKTM\obj\x86\Debug\AppSKTM.frmktp.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AppSKTM\AppSKTM\obj\x86\Debug\AppSKTM.frmcaridatasktm.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AppSKTM\AppSKTM\obj\x86\Debug\AppSKTM.frmcaridataskck.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AppSKTM\AppSKTM\obj\x86\Debug\AppSKTM.frmcaridataktp.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\AppSKTM\AppSKTM\obj\x86\Debug\AppSKTM.frmcaridatapegawai.resources
